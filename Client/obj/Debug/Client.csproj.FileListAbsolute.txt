@@ -1,0 +1,13 @@
+D:\2SIO1\M.Kreyder\CreditCeleste\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\2SIO1\M.Kreyder\CreditCeleste\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\2SIO1\M.Kreyder\Crédit\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\2SIO1\M.Kreyder\Crédit\Client\bin\Debug\Client.dll
+D:\2SIO1\M.Kreyder\Crédit\Client\bin\Debug\Client.pdb
+D:\2SIO1\M.Kreyder\Crédit\Client\obj\Debug\Client.dll
+D:\2SIO1\M.Kreyder\Crédit\Client\obj\Debug\Client.pdb
+D:\2SIO1\M.Kreyder\AppCrédit\Client\bin\Debug\Client.dll
+D:\2SIO1\M.Kreyder\AppCrédit\Client\bin\Debug\Client.pdb
+D:\2SIO1\M.Kreyder\AppCrédit\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\2SIO1\M.Kreyder\AppCrédit\Client\obj\Debug\Client.dll
+D:\2SIO1\M.Kreyder\AppCrédit\Client\obj\Debug\Client.pdb
+D:\2SIO1\M.Kreyder\AppCrédit\Client\obj\Debug\Client.csproj.AssemblyReference.cache
